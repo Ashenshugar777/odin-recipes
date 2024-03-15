@@ -1,0 +1,3 @@
+This project is about making a homepage that links to 3 other pages which contain recipes.
+I've done that & the only thing left to do would be to add amounts to the recipes.
+As far as what I've learned it was repetition of html coding, Doing a boilerplate, title, using headings, lists, links and paragraphs. I didn't remember how to use git and it seemed like such a small project I was unsure of when use it as well so towards the end I went back to the git workflow page so I could upload it. With git I used the commands status, add, commit & push.
